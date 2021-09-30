@@ -99,6 +99,10 @@ h2{
     text-transform: uppercase;
 }
 
+h2.title {
+	text-transform: none;
+}
+
 h3{
     font-size: 22px;
     line-height: 24px;
@@ -210,13 +214,10 @@ h2.title{
 	font-size: 57px;
 	line-height: 72px;
 	font-weight: 600;
-	text-transform: capitalize;
 }
 h2.title span{
 	font-size: 32px;
 	line-height: 60px;
-	text-transform: capitalize;
-	/* width: 243px; */
 	display: block;
 	padding: 0;
 	font-weight: normal;

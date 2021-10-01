@@ -145,15 +145,15 @@ h5{
 	transition: all .4s ease-in 0s;
 }
 .btn-default.featured{
-	border: 1px solid gold;
+	border: 1px solid goldenrod;
 	font-size: 18px;
 	line-height: 24px;
 	padding: 20px 19px;
 	text-transform: uppercase;
 	border-radius: 0;
 	font-weight: 700;
-	background: #066FA9;
-	color: gold;
+	background: goldenrod;
+	color: black;
 	margin-top: 50px;
 	-webkit-transition: all 1s ease-in 0s;
 	-o-transition: all 1s ease-in 0s;

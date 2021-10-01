@@ -39,12 +39,10 @@ body{
 	background: #fff;
 }
 
-
 a:link,
 a:visited{
     text-decoration: none;
 }
-
 section {
 	color: goldenrod !important;
 }
@@ -147,18 +145,19 @@ h5{
 	transition: all .4s ease-in 0s;
 }
 .btn-default.featured{
+	border: 1px solid gold;
 	font-size: 18px;
 	line-height: 24px;
 	padding: 20px 19px;
 	text-transform: uppercase;
 	border-radius: 0;
 	font-weight: 700;
-	background: green;
-	color: #fff;
+	background: #066FA9;
+	color: gold;
 	margin-top: 50px;
-	-webkit-transition: all .4s ease-in 0s;
-	-o-transition: all .4s ease-in 0s;
-	transition: all .4s ease-in 0s;
+	-webkit-transition: all 1s ease-in 0s;
+	-o-transition: all 1s ease-in 0s;
+	transition: all 1s ease-in 0s;
 }
 .btn-default:hover{
 	background: #fff;
@@ -166,9 +165,9 @@ h5{
 	border-color: #fff;
 }
 .btn-default.featured:hover{
-	background: #DA1757;
+	background: green;
 	color: #fff;
-	border-color: #E61D5F;
+	border-color: green;
 }
 
 /*Global styles

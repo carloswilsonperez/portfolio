@@ -48,7 +48,7 @@ jQuery(function($) {
  
 // prettyphoto
 
- $("a[data-rel^='prettyPhoto']").prettyPhoto();
+// $("a[data-rel^='prettyPhoto']").prettyPhoto();
  
     
  

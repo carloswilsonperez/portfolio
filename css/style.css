@@ -634,7 +634,7 @@ vertical-align: middle;
 .img-responsive {
 display: block;
 height: auto;
-max-width: 100%;
+max-width: 280px;
 }
 
 .img-rounded {
